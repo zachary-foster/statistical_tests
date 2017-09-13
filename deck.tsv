@@ -1,24 +1,23 @@
-front	back	source	source_url
-One-way analysis of variance	ANOVA		
-One-way analysis of variance	tests for differences between the means of three or more groups		
-One-way analysis of variance	Assumption: Equal group variances		
-One-way analysis of variance	Assumption: Measured variable is normally distributed		
-One-way analysis of variance	Assumption: Independent observations		
-Tukey's test	Finds which pairs of means are different when comparing three or more groups		
-Tukey's test	Compares all possible combinations of means		
-Tukey's test	Assumption: Independent observations		
-Tukey's test	Assumption: Measured variable is normally distributed		
-Tukey's test	Assumption: Equal group variances		
-Independent Samples t-test	Tests for differences between two means		
-Independent Samples t-test	Assumption: Measured variable is normally distributed		
-Independent Samples t-test	Assumption: Equal group variances		
-Independent Samples t-test	Assumption: Independent observations		
-Paired sample t-test	Tests for a difference between the means of two different measurements from the same group		
-Paired sample t-test	Assumption: Measured variable is normally distributed		
-Paired sample t-test	Assumption: Equal group variances		
-Paired sample t-test	Assumption: Independent observations		
-One sample t-test	Tests for a difference between a mean and a known value		
-One sample t-test	Assumption: Measured variable is normally distributed		
-One sample t-test	Assumption: Equal group variances		
-One sample t-test	Assumption: Independent observations		
-Welch's t-test			
+front	back	difficulty	source	source_url
+One-way analysis of variance	ANOVA	1		
+One-way analysis of variance	tests for differences between the means of three or more groups	2		
+One-way analysis of variance	Assumption: Equal group variances	2		
+One-way analysis of variance	Assumption: Measured variable is normally distributed	2		
+One-way analysis of variance	Assumption: Independent observations	2		
+Tukey's test	Finds which pairs of means are different when comparing three or more groups	1		
+Tukey's test	Compares all possible combinations of means	2		
+Tukey's test	Assumption: Independent observations	2		
+Tukey's test	Assumption: Measured variable is normally distributed	2		
+Tukey's test	Assumption: Equal group variances	2		
+Independent Samples t-test	Tests for differences between two means	1		
+Independent Samples t-test	Assumption: Measured variable is normally distributed	2		
+Independent Samples t-test	Assumption: Equal group variances	2		
+Independent Samples t-test	Assumption: Independent observations	2		
+Paired sample t-test	Tests for a difference between the means of two different measurements from the same group	1		
+Paired sample t-test	Assumption: Measured variable is normally distributed	2		
+Paired sample t-test	Assumption: Equal group variances	2		
+Paired sample t-test	Assumption: Independent observations	2		
+One sample t-test	Tests for a difference between a mean and a known value	1		
+One sample t-test	Assumption: Measured variable is normally distributed	2		
+One sample t-test	Assumption: Equal group variances	2		
+One sample t-test	Assumption: Independent observations	2		
